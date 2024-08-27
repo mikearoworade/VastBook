@@ -1,0 +1,293 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\VastBook.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VastBook.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\images\\product\\190b797e-0140-4b71-a083-3fd3fc33af0c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\190b797e-0140-4b71-a083-3fd3fc33af0c.jpg"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\images\\product\\1b4c7658-d8c3-4feb-aa90-5f427a2e885c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1b4c7658-d8c3-4feb-aa90-5f427a2e885c.jpg"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\images\\product\\2feb8dce-2389-48f2-ac0f-3f8eafe3af3d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2feb8dce-2389-48f2-ac0f-3f8eafe3af3d.jpg"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\images\\product\\aba37fb6-2283-4c12-aed0-09376fa7c410.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\aba37fb6-2283-4c12-aed0-09376fa7c410.jpg"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\images\\product\\af1be0b7-d8d8-46af-8a22-1accbb1765f5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\af1be0b7-d8d8-46af-8a22-1accbb1765f5.jpg"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\images\\product\\fcc9a66f-fe9b-4d40-89f0-3af5ed121f30.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\fcc9a66f-fe9b-4d40-89f0-3af5ed121f30.jpg"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VastBook.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VastBook.props",
+      "PackagePath": "build\\VastBook.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VastBook.props",
+      "PackagePath": "buildMultiTargeting\\VastBook.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VastBook.props",
+      "PackagePath": "buildTransitive\\VastBook.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

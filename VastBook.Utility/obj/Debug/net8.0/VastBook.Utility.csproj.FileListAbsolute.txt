@@ -1,0 +1,12 @@
+C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Utility\bin\Debug\net8.0\VastBook.Utility.deps.json
+C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Utility\bin\Debug\net8.0\VastBook.Utility.dll
+C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Utility\bin\Debug\net8.0\VastBook.Utility.pdb
+C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Utility\obj\Debug\net8.0\VastBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Utility\obj\Debug\net8.0\VastBook.Utility.AssemblyInfoInputs.cache
+C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Utility\obj\Debug\net8.0\VastBook.Utility.AssemblyInfo.cs
+C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Utility\obj\Debug\net8.0\VastBook.Utility.csproj.CoreCompileInputs.cache
+C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Utility\obj\Debug\net8.0\VastBook.Utility.dll
+C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Utility\obj\Debug\net8.0\refint\VastBook.Utility.dll
+C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Utility\obj\Debug\net8.0\VastBook.Utility.pdb
+C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Utility\obj\Debug\net8.0\ref\VastBook.Utility.dll
+C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Utility\obj\Debug\net8.0\VastBook.Utility.csproj.AssemblyReference.cache
