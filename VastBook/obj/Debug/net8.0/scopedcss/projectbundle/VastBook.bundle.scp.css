@@ -40,15 +40,13 @@ button.accept-policy[b-9vuwmr93l4] {
     font-size: 1rem;
     line-height: inherit;
 }
-
+.before-footer[b-9vuwmr93l4]{
+    margin-top: 4rem;
+}
 .footer[b-9vuwmr93l4] {
     position: absolute;
     bottom: 0;
     width: 100%;
     white-space: nowrap;
-    line-height: 60px;
-}
-
-.card[b-9vuwmr93l4] {
-    margin-bottom: 10rem !important;
+    line-height: 50px;
 }

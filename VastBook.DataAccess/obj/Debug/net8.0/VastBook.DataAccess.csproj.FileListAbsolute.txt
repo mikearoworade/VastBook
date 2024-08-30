@@ -17,3 +17,4 @@ C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.DataAccess\obj\Debug\
 C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.DataAccess\obj\Debug\net8.0\VastBook.DataAccess.pdb
 C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.DataAccess\obj\Debug\net8.0\VastBook.DataAccess.genruntimeconfig.cache
 C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.DataAccess\obj\Debug\net8.0\ref\VastBook.DataAccess.dll
+C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.DataAccess\obj\Debug\net8.0\VastBook.DataAccess.sourcelink.json

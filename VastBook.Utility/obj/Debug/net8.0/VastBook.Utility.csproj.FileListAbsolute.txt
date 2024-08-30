@@ -10,3 +10,4 @@ C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Utility\obj\Debug\net
 C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Utility\obj\Debug\net8.0\VastBook.Utility.pdb
 C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Utility\obj\Debug\net8.0\ref\VastBook.Utility.dll
 C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Utility\obj\Debug\net8.0\VastBook.Utility.csproj.AssemblyReference.cache
+C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Utility\obj\Debug\net8.0\VastBook.Utility.sourcelink.json

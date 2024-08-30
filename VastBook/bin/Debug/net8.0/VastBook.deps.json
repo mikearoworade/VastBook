@@ -16,6 +16,7 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.8",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.8",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.4",
+          "Stripe.net": "45.9.0",
           "VastBook.DataAccess": "1.0.0",
           "VastBook.Models": "1.0.0",
           "VastBook.Utility": "1.0.0"
@@ -1864,6 +1865,18 @@
           }
         }
       },
+      "Stripe.net/45.9.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3",
+          "System.Configuration.ConfigurationManager": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Stripe.net.dll": {
+            "assemblyVersion": "45.9.0.0",
+            "fileVersion": "45.9.0.0"
+          }
+        }
+      },
       "System.CodeDom/5.0.0": {
         "runtime": {
           "lib/netstandard2.0/System.CodeDom.dll": {
@@ -3122,6 +3135,13 @@
       "sha512": "sha512-PQ2Oq3yepLY4P7ll145P3xtx2bX8xF4PzaKPRpw9jZlKvfe4LE/saAV82inND9usn1XRpmxXk7Lal3MTI+6CNg==",
       "path": "sqlitepclraw.provider.e_sqlite3/2.1.6",
       "hashPath": "sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512"
+    },
+    "Stripe.net/45.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U4XFCub4GXoOy2U9MVY+gypI6blH5I5WBk0f6t5JXumM8jxxsotMjX2UpmtDX+5ZXaPhc0MW21YJgOshBsM9og==",
+      "path": "stripe.net/45.9.0",
+      "hashPath": "stripe.net.45.9.0.nupkg.sha512"
     },
     "System.CodeDom/5.0.0": {
       "type": "package",

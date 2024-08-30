@@ -9,3 +9,4 @@ C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Models\obj\Debug\net8
 C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Models\obj\Debug\net8.0\refint\VastBook.Models.dll
 C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Models\obj\Debug\net8.0\VastBook.Models.pdb
 C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Models\obj\Debug\net8.0\ref\VastBook.Models.dll
+C:\Vastcrown_Inc\Software_Engineering\c#\VastBook\VastBook.Models\obj\Debug\net8.0\VastBook.Models.sourcelink.json
