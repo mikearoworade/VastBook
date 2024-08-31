@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VastBook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+199bdd198d11f197cf1d0a69aa66b3ca75a74072")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7b983360d23331a97e526fad2c1e4ca1a178d08")]
 [assembly: System.Reflection.AssemblyProductAttribute("VastBook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VastBook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

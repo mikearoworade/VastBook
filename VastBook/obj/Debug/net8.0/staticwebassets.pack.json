@@ -21,30 +21,6 @@
       "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
     },
     {
-      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\images\\product\\007a51d1-46fd-4e22-946c-4a6c4945d552.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\007a51d1-46fd-4e22-946c-4a6c4945d552.jpg"
-    },
-    {
-      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\images\\product\\1798ffa2-8dfb-4b40-bfaa-1830543ab535.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\1798ffa2-8dfb-4b40-bfaa-1830543ab535.jpg"
-    },
-    {
-      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\images\\product\\68b5437a-ebe4-4a87-a376-0afaacc12086.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\68b5437a-ebe4-4a87-a376-0afaacc12086.jpg"
-    },
-    {
-      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\images\\product\\85675a0a-fba8-432b-b795-ea24e34e80ef.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\85675a0a-fba8-432b-b795-ea24e34e80ef.jpg"
-    },
-    {
-      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\images\\product\\b97bab62-5f39-49c4-9182-2550e65ae0af.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\b97bab62-5f39-49c4-9182-2550e65ae0af.jpg"
-    },
-    {
-      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\images\\product\\df862489-fad3-4c65-88cb-08e34325fc6b.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\df862489-fad3-4c65-88cb-08e34325fc6b.jpg"
-    },
-    {
       "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\js\\company.js",
       "PackagePath": "staticwebassets\\js\\company.js"
     },
@@ -59,6 +35,10 @@
     {
       "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
     },
     {
       "Id": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\wwwroot\\lib\\bootstrap\\LICENSE",
