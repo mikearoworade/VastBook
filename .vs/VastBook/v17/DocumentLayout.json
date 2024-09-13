@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0EFBD7B7-9D60-4919-A73A-F651E772E154}|VastBook.Utility\\VastBook.Utility.csproj|c:\\vastcrown_inc\\software_engineering\\c#\\vastbook\\vastbook.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFBD7B7-9D60-4919-A73A-F651E772E154}|VastBook.Utility\\VastBook.Utility.csproj|solutionrelative:vastbook.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322B3531-C93C-4A94-A52F-E3F677AFC76F}|VastBook.Models\\VastBook.Models.csproj|c:\\vastcrown_inc\\software_engineering\\c#\\vastbook\\vastbook.models\\viewmodels\\rolemanagementvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322B3531-C93C-4A94-A52F-E3F677AFC76F}|VastBook.Models\\VastBook.Models.csproj|solutionrelative:vastbook.models\\viewmodels\\rolemanagementvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322B3531-C93C-4A94-A52F-E3F677AFC76F}|VastBook.Models\\VastBook.Models.csproj|c:\\vastcrown_inc\\software_engineering\\c#\\vastbook\\vastbook.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322B3531-C93C-4A94-A52F-E3F677AFC76F}|VastBook.Models\\VastBook.Models.csproj|solutionrelative:vastbook.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322B3531-C93C-4A94-A52F-E3F677AFC76F}|VastBook.Models\\VastBook.Models.csproj|c:\\vastcrown_inc\\software_engineering\\c#\\vastbook\\vastbook.models\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322B3531-C93C-4A94-A52F-E3F677AFC76F}|VastBook.Models\\VastBook.Models.csproj|solutionrelative:vastbook.models\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB01D1CA-FC12-4806-8ECE-EC25620F89A4}|VastBook\\VastBook.csproj|c:\\vastcrown_inc\\software_engineering\\c#\\vastbook\\vastbook\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB01D1CA-FC12-4806-8ECE-EC25620F89A4}|VastBook\\VastBook.csproj|solutionrelative:vastbook\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -14,8 +30,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleManagementVM.cs",
+              "DocumentMoniker": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook.Models\\ViewModels\\RoleManagementVM.cs",
+              "RelativeDocumentMoniker": "VastBook.Models\\ViewModels\\RoleManagementVM.cs",
+              "ToolTip": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook.Models\\ViewModels\\RoleManagementVM.cs",
+              "RelativeToolTip": "VastBook.Models\\ViewModels\\RoleManagementVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:48:10.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook.Models\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "VastBook.Models\\ViewModels\\ProductVM.cs",
+              "ToolTip": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook.Models\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "VastBook.Models\\ViewModels\\ProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:48:06.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderVM.cs",
+              "DocumentMoniker": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook.Models\\ViewModels\\OrderVM.cs",
+              "RelativeDocumentMoniker": "VastBook.Models\\ViewModels\\OrderVM.cs",
+              "ToolTip": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook.Models\\ViewModels\\OrderVM.cs",
+              "RelativeToolTip": "VastBook.Models\\ViewModels\\OrderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:48:02.305Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -23,12 +78,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "VastBook.Utility\\SD.cs",
+              "ToolTip": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook.Utility\\SD.cs",
+              "RelativeToolTip": "VastBook.Utility\\SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:47:32.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\Areas\\Customer\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "VastBook\\Areas\\Customer\\Views\\Home\\Details.cshtml",
               "ToolTip": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastBook\\VastBook\\Areas\\Customer\\Views\\Home\\Details.cshtml",
               "RelativeToolTip": "VastBook\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ViewState": "AQIAABcAAAAAAAAAAAAqwD8AAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAD8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-31T08:50:22.148Z",
               "EditorCaption": ""
